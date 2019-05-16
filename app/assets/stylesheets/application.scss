@@ -49,6 +49,8 @@
    color: #005DFF;
    font-size: 25px;
    border-bottom: 2px solid #FF0000;
+   font-family: 'fira_sansbold_italic';
+   font-weight: bold;
 }
 
 header {
@@ -58,3 +60,14 @@ header {
 hr {
   clear:both;
 }
+
+h1 {
+  font-family: 'fira_sansbold_italic';
+  font-weight: bold;
+  font-size: 48px;
+}
+
+h2 {
+  font-family: 'fira_sansbold_italic';
+}
+
