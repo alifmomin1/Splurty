@@ -5,3 +5,6 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+Quote.create(saying: 'If you\'re born poor it\'s not your mistake, but if you die poor it\'s your mistake.', author: 'Bill Gates')
